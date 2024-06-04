@@ -1,0 +1,26 @@
+body{
+    padding:50px;
+}
+.registration-container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(47, 47, 51, 0.2) 0px 7px 29px 0px;
+}
+.form-group{
+    margin-bottom:30px;
+}
+.login-container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(47, 47, 51, 0.2) 0px 7px 29px 0px;
+}
+.butCard {
+    margin-top: 20px;
+    text-align: center;
+}
+.logout-but a{
+    color: #fff !important;
+    text-decoration: none !important;
+}
